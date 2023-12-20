@@ -3,7 +3,8 @@
 ### I'm a Junior .Net Developer!
 
 #### BIO
-<img align="right" alt="Coding" width="738" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif ">
+
 
 ⚙️ My specialty : `.Net`, `Asp.net`
 
@@ -13,12 +14,17 @@
 * `EF Core`, `Sql Server`, `Sql Lite`,
 * `.Net`, `Asp.Net Core`, `Mvc`
 * `Rest Api`, `FluentAssertions`, `Moq`, `Deep Cloner`
-* `xUnit`, `Git`, `Github`https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif
+* `xUnit`, `Git`, `Github`
 * `Visual Studio`, `VS Code`
 
-🌱 Learning all about Open Source
+
+🌱 Learning all about Open Source 
 	
-![Github stats](https://github-readme-stats.vercel.app/api?username=Mirsaid04&show_icons=true&theme=dark)
+
+
+
+
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=Mirsaid04&show_icons=true&theme=dark)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasurbekyusuf&theme=github_dark&show_icons=true)]
 (https://github.com/Mirsaid04/) -->
 📫 Connect with me: [Telegram](https://t.me/mirsaid_004)
